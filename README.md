@@ -47,13 +47,13 @@ A curated list of Natural Language Programming resources (is not Natural Languag
 - Integration APIs and standards as plugin, addons, modules
 
 ## links
-[Programming with Natural Language Is Actually Going to Work—Wolfram Blo](http://blog.wolfram.com/2010/11/16/programming-with-natural-language-is-actually-going-to-work/)
-[Wolfram Natural Language Understanding System](https://www.wolfram.com/natural-language-understanding/)
-[Personal Assistant for Linux and macOS](https://github.com/sukeesh/Jarvis)
-[Building Jarvis by Mark Zuckerberg](https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634)
-[How Mark Zucherberg personal smart home assistant Jarvis](http://www.businessinsider.com/how-mark-zuckerberg-personal-smart-home-assistant-jarvis-works-2016-12/)
-[MARY TTS - an open-source, multilingual text-to-speech synthesis system written in pure java](https://github.com/marytts/marytts)
-[Sagen, free, open-source TTS engine for .NET](https://github.com/TheBerkin/Sagen)
+- [Programming with Natural Language Is Actually Going to Work—Wolfram Blo](http://blog.wolfram.com/2010/11/16/programming-with-natural-language-is-actually-going-to-work/)
+- [Wolfram Natural Language Understanding System](https://www.wolfram.com/natural-language-understanding/)
+- [Personal Assistant for Linux and macOS](https://github.com/sukeesh/Jarvis)
+- [Building Jarvis by Mark Zuckerberg](https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634)
+- [How Mark Zucherberg personal smart home assistant Jarvis](http://www.businessinsider.com/how-mark-zuckerberg-personal-smart-home-assistant-jarvis-works-2016-12/)
+- [MARY TTS - an open-source, multilingual text-to-speech synthesis system written in pure java](https://github.com/marytts/marytts)
+- [Sagen, free, open-source TTS engine for .NET](https://github.com/TheBerkin/Sagen)
 
 ## queries (trees) (forcing literal searchEngine/verbatim and combinatorial nGram search)
 >"open source" "TTS"
