@@ -16,7 +16,7 @@ A curated list of Natural Language Programming resources (is not Natural Languag
 ## Prototyping and semantics
 
 - objects
-- encaptulation
+- encapsulation
 - methods
 - functions
 - invoke
@@ -38,7 +38,7 @@ A curated list of Natural Language Programming resources (is not Natural Languag
 
 - pseudoCode prototyping with abstraction and semantic models
 - microSyntax via voice commands
-- support syntax sugar as identation and clean code
+- support syntax sugar as indentation and clean code
 - algorythms design in pseudo code and assistance via AI inference to formal code implementation
 - natural language vs code implementation (assisted revision and check)
 - Implement a Jarvis-like assistant who understand cli scripting invokation (Bash, Powershell) with reasoning on semantic.level, context, syntax, inference, induction
@@ -59,6 +59,6 @@ A curated list of Natural Language Programming resources (is not Natural Languag
 >"open source" "TTS"
 >   +(textToSpeech|text2speech|"text to speech"|"text 2 speech")
 >   +words:engine,SDK,AI,"Artificial Intelligence","voice digitalization",voice,entonation,human,expression,sense,feeling,...
->   ... frameork, toolkit, library, module, synthesis, speech..etc
+>   ... framework, toolkit, library, module, synthesis, speech..etc
 >
 
