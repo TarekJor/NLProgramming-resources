@@ -15,16 +15,24 @@ A curated list of Natural Language Programming resources (is not Natural Languag
 
 ## Prototyping and semantics
 
-objects
-encaptulation
-methods
-functions
-invoke
-context
-definitions
-config
-parameters
-
+- objects
+- encaptulation
+- methods
+- functions
+- invoke
+- context
+- definitions
+- config
+- parameters
+- import
+- aliases
+- monad
+- functors
+- templating
+- meta.programming
+- ontologies
+- vocabularies
+- AI
 
 ## keys (research)
 
