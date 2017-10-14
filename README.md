@@ -54,7 +54,7 @@ A curated list of Natural Language Programming resources (is not Natural Languag
 - [How Mark Zucherberg personal smart home assistant Jarvis](http://www.businessinsider.com/how-mark-zuckerberg-personal-smart-home-assistant-jarvis-works-2016-12/)
 - [MARY TTS - an open-source, multilingual text-to-speech synthesis system written in pure java](https://github.com/marytts/marytts)
 - [Sagen, free, open-source TTS engine for .NET](https://github.com/TheBerkin/Sagen)
-
+- [Cotovía open source TTS Galician & Spanish](http://gtm.uvigo.es/publications/cotov%C3%ADa-open-source-tts-galician-and-spanish)
 ## queries (trees) (forcing literal searchEngine/verbatim and combinatorial nGram search)
 >"open source" "TTS"
 >   +(textToSpeech|text2speech|"text to speech"|"text 2 speech")
