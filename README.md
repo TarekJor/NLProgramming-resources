@@ -1,7 +1,7 @@
 # NLProgramming-resources
 A curated list of Natural Language Programming resources (is not Natural Language Processing per se)
 
-
+# NOTEs
 ## Functional programming with languages and semantics support
 
 - Haskell
@@ -36,15 +36,15 @@ A curated list of Natural Language Programming resources (is not Natural Languag
 
 ## keys (research)
 
-pseudoCode prototyping with abstraction and semantic models
-microSyntax via voice commands
-support syntax sugar as identation and clean code
-algorythms design in pseudo code and assistance via AI inference to formal code implementation
-natural language vs code implementation (assisted revision and check)
-Implement a Jarvis-like assistant who understand cli scripting invokation (Bash, Powershell) with reasoning on semantic.level, context, syntax, inference, induction
-AI powered compiler and code management
-Package integration of main package management systems from BSD, Linux distros, Windows Chocolatey, Brew and programming languages or apps repositories like SublimeText (Package Control) Python (Pypi) Perl (CPAN), PHP (PEAR), Maven (Java), Arch Linux (AUR) repo, etc
-
+- pseudoCode prototyping with abstraction and semantic models
+- microSyntax via voice commands
+- support syntax sugar as identation and clean code
+- algorythms design in pseudo code and assistance via AI inference to formal code implementation
+- natural language vs code implementation (assisted revision and check)
+- Implement a Jarvis-like assistant who understand cli scripting invokation (Bash, Powershell) with reasoning on semantic.level, context, syntax, inference, induction
+- AI powered compiler and code management
+- Package integration of main package management systems from BSD, Linux distros, Windows Chocolatey, Brew and programming languages or apps repositories like SublimeText (Package Control) Python (Pypi) Perl (CPAN), PHP (PEAR), Maven (Java), Arch Linux (AUR) repo, etc
+- Integration APIs and standards as plugin, addons, modules
 
 ## links
 [Programming with Natural Language Is Actually Going to Work—Wolfram Blo](http://blog.wolfram.com/2010/11/16/programming-with-natural-language-is-actually-going-to-work/)
