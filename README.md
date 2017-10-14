@@ -2,15 +2,16 @@
 A curated list of Natural Language Programming resources (is not Natural Language Processing per se)
 
 
-## Functional programming with languages and semantics
+## Functional programming with languages and semantics support
 
-Haskell
-Ocaml
-F#
-C#
-Wolfram Language from WolframAlpha 
-Scala 
-Erlang
+- Haskell
+- Ocaml
+- F#
+- C#
+- Wolfram Language from WolframAlpha 
+- Scala 
+- Erlang
+- C++ (low-medium level backend and modules)
 
 ## Prototyping and semantics
 
